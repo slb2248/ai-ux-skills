@@ -12,6 +12,7 @@ Curated AI coding skills for UX and product designers. Install once, and your AI
 | [UX Writing](./skills/ux-writing/) | Write effective microcopy: button labels, error messages, empty states, onboarding, and tooltips | UX Writers, Content, Product |
 | [Design Critique](./skills/design-critique/) | Structured framework for giving and receiving design feedback | Product, UX, UI, Visual |
 | [Data Visualization](./skills/d3-visualization/) | Design effective data visualizations: charts, graphs, dashboards, and infographics | Visual, Data, Product |
+| [Design Workshop Facilitation](./skills/design-workshop-facilitation/) | Facilitate effective design workshops for problem-solving, ideation, customer journey mapping, design sprints, and team alignment | Product, UX, Design Leads |
 
 ## Installation
 
