@@ -11,7 +11,7 @@ Curated AI coding skills for UX and product designers. Install once, and your AI
 | [Accessibility Expert](./skills/accessibility-expert/) | Build inclusive interfaces with WCAG compliance, screen reader support, and keyboard navigation | UX, UI, Product, Frontend |
 | [UX Writing](./skills/ux-writing/) | Write effective microcopy: button labels, error messages, empty states, onboarding, and tooltips | UX Writers, Content, Product |
 | [Design Critique](./skills/design-critique/) | Structured framework for giving and receiving design feedback | Product, UX, UI, Visual |
-| [D3.js Visualization](./skills/d3-visualization/) | Create interactive data visualizations, charts, and network diagrams | Visual, Data, Product |
+| [Data Visualization](./skills/d3-visualization/) | Design effective data visualizations: charts, graphs, dashboards, and infographics | Visual, Data, Product |
 
 ## Installation
 
