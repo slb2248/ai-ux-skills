@@ -13,6 +13,7 @@ Curated AI coding skills for UX and product designers. Install once, and your AI
 | [Design Critique](./skills/design-critique/) | Structured framework for giving and receiving design feedback | Product, UX, UI, Visual |
 | [Data Visualization](./skills/d3-visualization/) | Design effective data visualizations: charts, graphs, dashboards, and infographics | Visual, Data, Product |
 | [Design Workshop Facilitation](./skills/design-workshop-facilitation/) | Facilitate effective design workshops for problem-solving, ideation, customer journey mapping, design sprints, and team alignment | Product, UX, Design Leads |
+| [AI Native Product Designer](./skills/ai-native-product-designer/) | LLM-first workflow, AI code prototyping, Figma as polish, self-serve research, outcome ownership; rubrics for leveling and AI readiness | Product, UX, UI, Design Systems, Research, Frontend |
 
 ## Installation
 
